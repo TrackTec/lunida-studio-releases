@@ -1,2 +1,2 @@
-# leonida-studio-releases
-Leonida Studio – Downloads und Updates
+# lunida-studio-releases
+Lunida Studio – Downloads und Updates
